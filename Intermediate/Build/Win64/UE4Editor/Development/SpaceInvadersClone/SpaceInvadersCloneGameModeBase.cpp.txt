@@ -1,0 +1,7 @@
+D:\Hans-Petter\Documents\Unreal Projects\SpaceInvadersClone\Intermediate\Build\Win64\UE4Editor\Development\SpaceInvadersClone\Definitions.SpaceInvadersClone.h
+D:\Hans-Petter\Documents\Unreal Projects\SpaceInvadersClone\Source\SpaceInvadersClone\SpaceInvadersCloneGameModeBase.h
+F:\Games\Epic Games\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Games\Epic Games\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Games\Epic Games\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Games\Epic Games\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Hans-Petter\Documents\Unreal Projects\SpaceInvadersClone\Intermediate\Build\Win64\UE4Editor\Inc\SpaceInvadersClone\SpaceInvadersCloneGameModeBase.generated.h

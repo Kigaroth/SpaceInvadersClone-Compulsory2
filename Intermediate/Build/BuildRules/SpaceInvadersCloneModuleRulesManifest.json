@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Hans-Petter\\Documents\\Unreal Projects\\SpaceInvadersClone\\Source\\SpaceInvadersClone\\SpaceInvadersClone.Build.cs",
+		"D:\\Hans-Petter\\Documents\\Unreal Projects\\SpaceInvadersClone\\Source\\SpaceInvadersClone.Target.cs",
+		"D:\\Hans-Petter\\Documents\\Unreal Projects\\SpaceInvadersClone\\Source\\SpaceInvadersCloneEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

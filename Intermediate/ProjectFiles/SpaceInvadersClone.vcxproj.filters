@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpaceInvadersClone.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AA3E58FF-57C2-4BE4-9079-B9C9BF6D2298}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceInvadersClone.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpaceInvadersCloneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{216E9C8B-B1D1-4D61-ADA9-A2ED5ABBC5DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpaceInvadersClone">
+      <UniqueIdentifier>{696AB28A-43F8-4AB5-98C5-A18DAAD76C4E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceInvadersClone\PlayerPawn.cpp">
+      <Filter>Source\SpaceInvadersClone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersClone\PlayerPawn.h">
+      <Filter>Source\SpaceInvadersClone</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SpaceInvadersClone\SpaceInvadersClone.Build.cs">
+      <Filter>Source\SpaceInvadersClone</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpaceInvadersClone\SpaceInvadersClone.cpp">
+      <Filter>Source\SpaceInvadersClone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersClone\SpaceInvadersClone.h">
+      <Filter>Source\SpaceInvadersClone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersClone\SpaceInvadersCloneGameModeBase.cpp">
+      <Filter>Source\SpaceInvadersClone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersClone\SpaceInvadersCloneGameModeBase.h">
+      <Filter>Source\SpaceInvadersClone</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpaceInvadersClone",
+			"Path": "D:\\Hans-Petter\\Documents\\Unreal Projects\\SpaceInvadersClone\\Source\\SpaceInvadersClone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpaceInvadersCloneEditor",
+			"Path": "D:\\Hans-Petter\\Documents\\Unreal Projects\\SpaceInvadersClone\\Source\\SpaceInvadersCloneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

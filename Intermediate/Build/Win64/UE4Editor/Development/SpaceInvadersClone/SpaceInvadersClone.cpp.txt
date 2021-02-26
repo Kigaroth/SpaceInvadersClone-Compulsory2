@@ -1,0 +1,2 @@
+D:\Hans-Petter\Documents\Unreal Projects\SpaceInvadersClone\Intermediate\Build\Win64\UE4Editor\Development\SpaceInvadersClone\Definitions.SpaceInvadersClone.h
+D:\Hans-Petter\Documents\Unreal Projects\SpaceInvadersClone\Source\SpaceInvadersClone\SpaceInvadersClone.h
